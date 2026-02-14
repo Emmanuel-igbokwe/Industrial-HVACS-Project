@@ -1,33 +1,33 @@
-# School Finance Tracker — built by Emmanuel Igbokwe
+# Emmanuel Igbokwe - Data Science & Engineering Portfolio
 
-This is a browser-based app for consolidating school financial data across multiple quarters.
+## 📁 Portfolio Contents
 
-## Features
-- Upload financial templates for multiple quarters (Q1, Q2, Q3, …).
-- Automatically extracts and displays key metrics:
-  - Cash balances
-  - Assets & Liabilities
-  - Fund Balances
-  - Revenues & Expenditures
-- Consolidated preview table inside the browser.
-- Export to Excel for reporting.
-- All values formatted as **whole numbers (no decimals)**.
+### Interactive Portfolios
+- **scientific_systems_engineering_portfolio.html** - Technical engineering portfolio showcasing HVAC projects
+- **scientific_systems_premium_dashboard.html** - Interactive data visualization dashboard
+- **scientific_systems_showcase.html** - Additional project showcase
 
-## How to Use
-1. Open `index.html` in any modern browser (Chrome, Edge, Firefox).
-2. Select a quarter (Q1, Q2, Q3).
-3. Upload your template file.
-4. Preview updates automatically.
-5. Repeat for more quarters.
-6. Use the **Export** button to save as Excel.
+## 🎯 Key Highlights
 
-## Deployment
-The app is self-contained (just `index.html`).  
-To share it as a web app:
-- Upload this repo to **GitHub Pages**, Netlify, or Vercel.
-- GitHub Pages will serve it at:  
-  `https://<your-username>.github.io/<repository-name>/`
+**Scientific Systems LLC (Jan 2025 - May 2025)**
+- 22% quarterly revenue growth ($1.8M)
+- 18% energy reduction ($400K+ savings)
+- ML-powered HVAC optimization across 12 facilities
+- 94% model accuracy on predictive analytics
 
-## Author
+**Technical Skills**
+- Machine Learning: Python, scikit-learn, XGBoost, TensorFlow, Neural Networks
+- Data Engineering: SQL, ETL pipelines, Azure, AWS
+- Visualization: Power BI, Tableau, Plotly
+- Domain: Finance, Manufacturing, HVAC Systems
+
+## 📧 Contact
+
 **Emmanuel Igbokwe**  
-Built for school finance data management and reporting.
+📍 Baton Rouge, LA  
+📞 (225) 302-2473  
+✉️ Eigbok1@gmail.com
+
+---
+
+*Open the HTML files in any modern web browser to view interactive portfolios*
